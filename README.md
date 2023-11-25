@@ -1,2 +1,2 @@
 # test.exe
-#it is safe
+it is safe
